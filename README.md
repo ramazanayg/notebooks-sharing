@@ -192,4 +192,4 @@ conda env remove -n notebooks-sharing
 
 
 **5. Binder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ramazanayg/notebooks-sharing/HEAD)?urlpath=lab
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ramazanayg/notebooks-sharing/HEAD?urlpath=lab)
